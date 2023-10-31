@@ -53,5 +53,5 @@ if keyboard_check(ord("J")) and global.dialogo == false{
 }
 }
 #endregion dialogo
-
+//teste
 
