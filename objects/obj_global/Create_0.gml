@@ -1,0 +1,4 @@
+global.dialogo = false
+
+
+
